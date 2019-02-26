@@ -1,6 +1,6 @@
 <?php
 echo "<h1>hello world</h1>";
-echo 30+80;
+echo 770+80;
 echo "<br>";
 echo 56;
 echo "<br>";
